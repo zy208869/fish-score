@@ -1,0 +1,23 @@
+# Build outputs
+build/
+bin/
+obj/
+*.dll
+*.exe
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# xmake
+.xmake/
+
+# OS
+Thumbs.db
+.DS_Store
