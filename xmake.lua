@@ -23,7 +23,6 @@ target("fish-score")
 
     -- Plugin info
     set_license("MIT")
-    set_author("YourName")
     set_version("1.0.0")
 
     -- Copy plugin DLL to BDS plugins folder (optional)
